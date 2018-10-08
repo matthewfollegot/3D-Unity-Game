@@ -1,0 +1,11 @@
+/Users/matthewfollegot/Desktop/Unity/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/Users/matthewfollegot/Desktop/Unity/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/Users/matthewfollegot/Desktop/Unity/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/Users/matthewfollegot/Desktop/Unity/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/Users/matthewfollegot/Desktop/Unity/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/Users/matthewfollegot/Desktop/Unity/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/Users/matthewfollegot/Desktop/Unity/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/Users/matthewfollegot/Desktop/Unity/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/Users/matthewfollegot/Desktop/Unity/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/Users/matthewfollegot/Desktop/Unity/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/Users/matthewfollegot/Desktop/Unity/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
